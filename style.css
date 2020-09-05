@@ -1,0 +1,26 @@
+body{margin: 0;padding: 0}
+.hersey{width: 760px; height: auto;margin: 10px auto}
+.menyu{width: 400px; height: 50px;margin-left: 11px}
+.sekilyeri{width: 760px;height: 90px;background: url("images/about.jpg");padding-top: 60px}
+.solorta{width: 400px; height: 310px;float: left;font: 12px tahoma;color: #888;padding-left: 10px;padding-top: 10px}
+.sagorta{width: 300px; height: 320px;float: left;margin-left: px;font: 12px tahoma;color: #888;padding-left: 25px}
+.solalt{width: 410px;height: 300px;float: left;color: #ccc;font: 12px tahoma;padding-top: 20px;border-top: 1px solid #ccc}
+.sagalt{width: 325px;height: 300px;float: left;margin-left: 0px;border-top: 1px solid #ccc;padding-top: 20px}
+.menyu ul{margin: 0;padding: 0;list-style: none}
+.menyu ul li{float: left}
+.menyu ul li a{display: block;;height: 50px;text-decoration: none;text-indent: -2000px}
+.menyu ul li#a a{background: url("images/css-baliklama16.gif") 0 -100px no-repeat;width: 71px}
+.menyu ul li#s a{background: url("images/css-baliklama17.gif") 0 0 no-repeat;width: 84px}
+.menyu ul li#p a{background: url("images/css-baliklama18.gif") 0 0 no-repeat;width: 95px}
+.menyu ul li#c a{background: url("images/css-baliklama19.gif") 0 0 no-repeat;width: 95px}
+.menyu ul li#s a:hover{background: url("images/css-baliklama17.gif") 0 -100px no-repeat;width: 84px}
+.menyu ul li#p a:hover{background: url("images/css-baliklama18.gif") 0 -100px no-repeat;width: 95px}
+.menyu ul li#c a:hover{background: url("images/css-baliklama19.gif") 0 -100px no-repeat;width: 95px}
+.ustic {margin-left: 510px;font: 18px Verdana;color: #fff}
+.yazi1 {font:bold 22px Verdana;color: #fff}
+.yazi2 {font:bold 20px Verdana;color: #f60}
+.yazi3 {font:bold 20px Verdana;color: #c95e4e}
+.yazi4 {font:bold 14px Verdana;color: #888}
+.sagalt a{font: 11px tahoma;color: #ccc ; text-decoration: none;text-transform: capitalize}
+.sagalt a:hover{color:#d36818;text-decoration: underline}
+.yazi5 {font:bold 11px Verdana;color: #f60}
